@@ -1,4 +1,4 @@
 name,location,capacity,genres
-Dux Central,Christchurch,100,Rock/Metal
-Bodega,Wellington,200,Classical
-Vector Arena,Auckland,12000,Pop
+Dux Central,Christchurch,100,Rock/Metal;Hip Hop
+Bodega,Wellington,200,Classical;Alternative
+Vector Arena,Auckland,12000,Pop;Rock;DJ/Electronic
